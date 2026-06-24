@@ -1,3 +1,5 @@
+<p align="center"><img width="540" height="220" alt="4Site Studios" src="https://raw.githubusercontent.com/4site-interactive-studios/.github/refs/heads/main/profile/logo.png" /></p>
+
 # 4Site Interactive Studios
 
 We are a full-service digital agency for mission-driven nonprofits. Founded in 2001 and based in Washington DC, we pair strategy, design, and engineering to build the websites, campaigns, integrations, and tools that help organizations raise more money and move more people to act. We started out making nonprofit videos and websites; today we work across the whole digital engagement stack as an extension of our clients' teams.
