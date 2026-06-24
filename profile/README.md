@@ -1,8 +1,6 @@
-<p align="center"><img width="540" height="220" alt="4Site Studios" src="https://raw.githubusercontent.com/4site-interactive-studios/.github/refs/heads/main/profile/logo.png" /></p>
+<p align="left"><img width="270" height="110" alt="4Site Studios" src="https://raw.githubusercontent.com/4site-interactive-studios/.github/refs/heads/main/profile/logo-white.png" /></p>
 
-# 4Site Interactive Studios
-
-We are a full-service digital agency for mission-driven nonprofits. Founded in 2001 and based in Washington DC, we pair strategy, design, and engineering to build the websites, campaigns, integrations, and tools that help organizations raise more money and move more people to act. We started out making nonprofit videos and websites; today we work across the whole digital engagement stack as an extension of our clients' teams.
+4Site Studios is a full-service digital agency for mission-driven nonprofits. Founded in 2001 and based in Washington DC, we pair strategy, design, and engineering to build the websites, campaigns, integrations, and tools that help organizations raise more money and move more people to act. We started out making nonprofit videos and websites; today we work across the whole digital engagement stack as an extension of our clients' teams.
 
 You may know us as the team behind ENgrid, our open-source framework for Engaging Networks. That is a big part of what we do, but it is not the whole picture. We build custom WordPress and Drupal sites, design brand systems, wire up CRMs that were never meant to talk to each other, and ship our own software products.
 
