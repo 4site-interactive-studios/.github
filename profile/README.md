@@ -1,12 +1,3 @@
-<!-- This file is the 4Site org profile README. It belongs at:
-     .github/profile/README.md  (in the 4site-interactive-studios/.github repo)
-     Paste the content below into the new-file editor GitHub opened for you. -->
-
-<!-- Optional: drop a 4Site banner here for visual polish, e.g.
-<p align="center"><img src="https://github.com/user-attachments/assets/90c90cd4-a112-446e-a79a-e34089203437" alt="4Site Interactive Studios" width="100%" height="220"></p>
--->
-
-
 # 4Site Interactive Studios
 
 We are a full-service digital agency for mission-driven nonprofits. Founded in 2001 and based in Washington DC, we pair strategy, design, and engineering to build the websites, campaigns, integrations, and tools that help organizations raise more money and move more people to act. We started out making nonprofit videos and websites; today we work across the whole digital engagement stack as an extension of our clients' teams.
